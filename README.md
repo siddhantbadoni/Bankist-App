@@ -7,3 +7,4 @@ And this project is basically from the Jonas Schemedtsman javascript course from
 ### Screenshot
 ![Screenshot](projectScreenshot/bankist.png)
 
+You can visit [Google](https://siddhantbadoni.github.io/Bankist-App/) for searching the web.
